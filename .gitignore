@@ -1,0 +1,90 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ── Virtual environments ──
+venv/
+env/
+ENV/
+.venv/
+
+# ── QGIS specific ──
+*.qgs~
+*.qgz~
+*.qgs.bak
+.qgis2/
+.qgis3/
+
+# ── AI model weights (too large for git) ──
+geovision_ai_plugin/models/weights/*.pt
+geovision_ai_plugin/models/weights/*.pth
+geovision_ai_plugin/models/weights/*.safetensors
+geovision_ai_plugin/models/weights/*.onnx
+
+# ── Runtime config ──
+geovision_ai_plugin/config.json
+config.json
+
+# ── macOS ──
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Logs ──
+*.log
+logs/
+
+# ── Test data ──
+test_data/
+*.tif
+*.tiff
+!geovision_ai_plugin/resources/**/*.tif
+
+# ── Jupyter ──
+.ipynb_checkpoints/
+
+# ── Env files ──
+.env
+*.pem
+
+# ── Distribution ZIP (too large) ──
+geovision_ai_plugin.zip
+*.zip
+
+# ── ALL model weights regardless of extension ──
+**/models/weights/*
+!**/models/weights/.gitkeep
+
+# ── Large test rasters ──
+*.tif
+*.tiff
+*.aux.xml
+
+# ── Misc junk ──
+0

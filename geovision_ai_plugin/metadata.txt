@@ -1,0 +1,14 @@
+[general]
+name=GeoVision AI
+description=AI-powered raster-to-vector segmentation for QGIS
+version=1.0.0
+qgisMinimumVersion=3.34
+author=Your Name
+email=your.email@example.com
+about=Segments rasters using AI models to extract vector polygons
+tracker=https://github.com/yourusername/geovision-ai-plugin/issues
+repository=https://github.com/yourusername/geovision-ai-plugin
+icon=resources/icons/icon.png
+
+[processing]
+hasProcessingProvider=yes
