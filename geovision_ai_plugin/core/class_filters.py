@@ -1,7 +1,4 @@
-"""
-Class-aware filtering using color and shape heuristics
-Works with SAM's class-agnostic output to sort detections into classes
-"""
+
 
 import numpy as np
 import cv2
