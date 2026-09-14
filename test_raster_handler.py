@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Test the raster handler
-"""
+
 import sys
 import os
 
