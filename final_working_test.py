@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Final working test for GeoVision AI environment
-"""
+
 import sys
 import os
 
