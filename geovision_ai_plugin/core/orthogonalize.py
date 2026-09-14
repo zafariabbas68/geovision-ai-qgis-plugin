@@ -1,17 +1,3 @@
-"""
-Orthogonalize building polygons — professional grade.
-
-Algorithm:
-1. Fit minimum-area rotated rectangle (MAR) to get the dominant angle
-2. Rotate the polygon so its main axis is horizontal
-3. Classify each edge as horizontal, vertical, or diagonal (45°)
-4. Snap each edge's endpoints to snapped coordinate lines
-5. Rotate back
-6. Validate — reject if area changes too much, or if shape becomes invalid
-
-This is the same approach used by production vectorization tools.
-No spikes. No accumulation error.
-"""
 
 import numpy as np
 import cv2
