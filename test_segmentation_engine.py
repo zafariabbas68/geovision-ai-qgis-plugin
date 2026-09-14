@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Test the segmentation engine
-"""
+
 import sys
 import os
 import numpy as np
