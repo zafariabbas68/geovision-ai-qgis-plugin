@@ -1,17 +1,4 @@
-"""
-Exemplar-Guided Segmentation
-User clicks ONE example of an object.
-We extract its embedding (via SAM encoder) + color histogram.
-Then all segments are scored by cosine similarity to the example.
-Only high-similarity segments are kept.
 
-This is the same approach used by:
-- GeoOSAM (ISPRS 2025)
-- Terra Lab AI Segmentation
-- SAM-based few-shot segmentation papers
-
-Works without Grounding DINO, no text model required.
-"""
 
 import numpy as np
 import cv2
