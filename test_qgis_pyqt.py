@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Test QGIS with PyQt5
-"""
+
 import sys
 import os
 
