@@ -1,5 +1,4 @@
-#!/bin/bash
-echo "🔧 Quick fix for metadata case sensitivity..."
+
 
 # Fix metadata
 cat > geovision_ai_plugin/metadata.txt << 'EOF2'
