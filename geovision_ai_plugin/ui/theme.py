@@ -1,7 +1,4 @@
-"""
-Theme-aware colors for the plugin
-Detects QGIS light/dark theme and returns appropriate colors
-"""
+
 
 from qgis.PyQt.QtGui import QPalette, QColor
 from qgis.PyQt.QtWidgets import QApplication
