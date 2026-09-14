@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Validate the plugin metadata
-"""
+
 import configparser
 import os
 
