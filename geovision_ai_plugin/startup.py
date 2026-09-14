@@ -1,7 +1,4 @@
-"""
-Startup — ensure QGIS can find cv2 and other AI libraries.
-Runs when the plugin is loaded.
-"""
+
 import sys
 import os
 
