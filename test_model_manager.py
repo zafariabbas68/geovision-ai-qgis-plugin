@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Test the model manager
-"""
+
 import sys
 import os
 
