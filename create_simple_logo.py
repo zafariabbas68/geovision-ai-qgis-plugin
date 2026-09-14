@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Create a simple but professional logo for GeoVision AI
-"""
+
 import os
 import struct
 import zlib
