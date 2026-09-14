@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Complete verification of GeoVision AI plugin setup
-"""
+
 import sys
 import os
 from pathlib import Path
