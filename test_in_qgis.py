@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Quick test script for QGIS plugin - run this in QGIS Python console
-"""
+
 import sys
 import os
 
