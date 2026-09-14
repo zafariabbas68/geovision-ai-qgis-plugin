@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Complete test for GeoVision AI plugin environment
-"""
+
 import sys
 import os
 
