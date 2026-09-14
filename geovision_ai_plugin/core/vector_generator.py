@@ -1,7 +1,4 @@
-"""
-Vector Generation with Individual Feature Support
-Each detected object becomes its own polygon
-"""
+
 
 import numpy as np
 from typing import List, Dict, Any, Optional
