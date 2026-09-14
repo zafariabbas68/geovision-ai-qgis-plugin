@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-Full pipeline test for GeoVision AI
-"""
+
 import sys
 import os
 import numpy as np
