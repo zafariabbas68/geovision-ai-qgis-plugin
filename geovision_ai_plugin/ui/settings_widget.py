@@ -1,8 +1,4 @@
-"""
-GeoVision AI - Settings Widget
-Uses explicit colors that work in ANY theme.
-No QGroupBox — flat layout with explicit QLabel styling.
-"""
+
 
 from qgis.PyQt.QtWidgets import (
     QWidget, QVBoxLayout, QHBoxLayout, QLabel, QFrame,
