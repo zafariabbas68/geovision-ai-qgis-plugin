@@ -1,8 +1,4 @@
-"""
-Review & Edit Panel for GeoVision AI
-Provides polygon editing capabilities: fix, merge, split, vertex edit
-Uses QGIS native editing framework with QgsVectorLayerEditBuffer
-"""
+
 
 from qgis.PyQt.QtWidgets import (
     QDockWidget, QWidget, QVBoxLayout, QHBoxLayout,
