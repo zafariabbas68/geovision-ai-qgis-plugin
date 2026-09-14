@@ -1,8 +1,4 @@
-"""
-Class-aware detection helpers
-Each class (building, car, tree, etc.) has tuned parameters
-Based on GeoOSAM architecture [citation:11]
-"""
+
 
 from dataclasses import dataclass
 from typing import Dict
