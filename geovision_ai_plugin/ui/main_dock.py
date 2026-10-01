@@ -1,6 +1,4 @@
-"""
-GeoVision AI - Main UI with Precise Segmentation
-"""
+
 
 from qgis.PyQt.QtWidgets import (
     QDockWidget, QWidget, QVBoxLayout, QHBoxLayout,
