@@ -1,8 +1,4 @@
-"""
-Interactive click-to-add tool
-Click on an image, SAM segments the object under the cursor
-Adds it directly to the detected layer
-"""
+
 
 from qgis.core import (
     QgsProject, QgsVectorLayer, QgsFeature, QgsGeometry,
