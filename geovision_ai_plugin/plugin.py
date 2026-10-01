@@ -1,7 +1,4 @@
-"""
-GeoVision AI Plugin - Main plugin class
-Uses unified panel with tabs for Detect, Review, Settings
-"""
+
 
 import os
 from qgis.core import QgsApplication
