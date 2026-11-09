@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Create a professional logo for GeoVision AI
-"""
+
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import os
 
