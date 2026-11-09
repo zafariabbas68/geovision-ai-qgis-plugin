@@ -235,5 +235,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **⭐ If you find this useful, please give it a star!**
 
-Made with ❤️ in Milan
+
 
